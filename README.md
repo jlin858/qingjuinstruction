@@ -36,4 +36,4 @@ window.addEventListener("load", function() {
     as[i].title = as[i].innerText;
   }
 });
-</script>
+</script># new_version
